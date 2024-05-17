@@ -118,7 +118,7 @@ def algoHighestPriorityFirst(processes):
                 cpu_used = True
                 process["burstTime"] -= 1
                 # as Completed if burst tame is null
-                if process["burstTime"] < 0:
+                if process["burstTime"] <= 0:
                     process["state"] = "Finished"
                     cpu_used = False
                     # process["order"] = -1
