@@ -17,7 +17,7 @@ This repository contains a Python Flask API for simulating various CPU schedulin
 ## How to Use
 refer to the documentation included in the folder "Example_usage"
 
-###Installation
+### Installation:
 <pre>
   <code class="language-java">
     git clone https://github.com/yourusername/yourprojectname.git
@@ -26,7 +26,7 @@ refer to the documentation included in the folder "Example_usage"
 
   </code>
 </pre>
-###Usage
+### Usage:
 
 <pre>
   <code class="language-java">
@@ -37,7 +37,7 @@ refer to the documentation included in the folder "Example_usage"
 Once the server is running, you can access the API at http://localhost:5000. Use the following endpoint:
 Post: /schedule
 
-##Acknowledgements
-Flask for the micro web framework used.
-Postman for testing the API.
+## Acknowledgements
+**Flask** for the micro web framework used.
+**Postman** for testing the API.
 
