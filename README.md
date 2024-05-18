@@ -26,8 +26,18 @@ refer to the documentation included in the folder "Example_usage"
 
   </code>
 </pre>
-### Usage:
 
+### Test(optional):
+<pre>
+  <code class="language-java">
+    pip install streamlit
+    cd Processes_scheduling_simulator
+    streamlit run app.py
+  </code>
+</pre>
+This will start the Streamlit server and open your default web browser to the app's URL.
+
+### Usage:
 <pre>
   <code class="language-java">
     python app.py
