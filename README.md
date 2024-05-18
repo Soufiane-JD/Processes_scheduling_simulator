@@ -20,8 +20,8 @@ refer to the documentation included in the folder "Example_usage"
 ### Installation:
 <pre>
   <code class="language-java">
-    git clone https://github.com/yourusername/yourprojectname.git
-    cd yourprojectname
+    git clone https://github.com/Soufiane-JD/Processes_scheduling_simulator.git
+    cd Processes_scheduling_simulator
     pip install -r requirements.txt
 
   </code>
@@ -30,7 +30,7 @@ refer to the documentation included in the folder "Example_usage"
 
 <pre>
   <code class="language-java">
-    python run_server.py
+    python app.py
   </code>
 </pre>
 
